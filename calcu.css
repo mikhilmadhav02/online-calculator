@@ -1,0 +1,35 @@
+#cal{
+  position: relative;
+  background-colr: rgb(136, 159, 180);
+  width: 45vh;
+  height:75vh ;
+ 
+ 
+}
+
+
+.box{
+
+  background-color: rgb(99, 97, 97);
+  color: rgb(247, 244, 244);
+  display: flex;
+  justify-content: center;
+  
+  align-items: center;
+  float: left;
+  width:23% ;
+  height:16% ;  
+  border:.29cm solid rgb(28, 28, 28);
+}
+#type{
+  margin-left:-21px;
+  margin-bottom:-2px;
+}
+#input{
+  border-radius:.09cm;
+  color: rgb(43, 43, 43);
+  border:.2cm solid rgb(27, 27, 27);
+  background-color: rgb(181, 181, 181);
+  width:227.9px;
+  height: 1cm;
+}
